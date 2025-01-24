@@ -1,9 +1,8 @@
 def hello():
-    """
-    practice git
-    """
-    return "hello world"
+ """
+ practice git
+ """
+ return "hello world"
 
 
 hello()
-    

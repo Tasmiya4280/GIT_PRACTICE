@@ -7,12 +7,36 @@ git branch -M main
 git remote add origin https://github.com/Tasmiya4280/GIT_PRACTICE.git
 git remote -v
 git push origin master
- git remote add origin https://github.com/Tasmiya4280/GIT_PRACTICE.git
- git push origin master
- git push origin main
- history
+git remote add origin https://github.com/Tasmiya4280/GIT_PRACTICE.git
+git push origin master
+git push origin main
+history
 
+git logs
+git log
+git reset 2929787a3692b00881a76f6a75510ca4af2a32e2
+git log
+git revert 9778e8030dac2ebf19c83198fe137c78edb97e70
+git stash
+git stash list
+git checkout dev
+git add .
+git stash
+git stash list
+git checkout main
+git add .
+git commit -m "10th commit of  code"
+git push origin main
+git pull origin main
+gt push origin main
+git stash pop
+git commit -m "11th commit of  code"
+vi demo.py
+git commit -m "11th commit of  code"
+git add .
+git commit -m "11th commit of  code"
+git push origin main
+git log
 
-
- git fetch (fetches the changes in your remote branch to your local branch)
- git pull(update the remote changes in your local branch)
+git fetch (fetches the changes in your remote branch to your local branch)
+git pull(update the remote changes in your local branch)

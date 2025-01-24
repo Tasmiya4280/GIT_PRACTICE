@@ -11,3 +11,8 @@ git push origin master
  git push origin master
  git push origin main
  history
+
+
+
+ git fetch (fetches the changes in your remote branch to your local branch)
+ git pull(update the remote changes in your local branch)

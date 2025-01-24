@@ -6,3 +6,5 @@ def hello():
 
 
 hello()
+
+print("added a new line")

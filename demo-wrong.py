@@ -1,7 +1,9 @@
-def pass_fun():
-    a = 3
-    return a
+"""
+This module contains examples of incorrect code formatting and their corrections.
+"""
 
-
-print("hello this is the corrected code!")
-pass_fun()
+def hello():
+    """
+    Returns a greeting message: 'hello world'.
+    """
+    return "hello world"

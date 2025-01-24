@@ -3,3 +3,11 @@ git add filename
 git commit
 git restore filename
 git status
+git branch -M main
+git remote add origin https://github.com/Tasmiya4280/GIT_PRACTICE.git
+git remote -v
+git push origin master
+ git remote add origin https://github.com/Tasmiya4280/GIT_PRACTICE.git
+ git push origin master
+ git push origin main
+ history

@@ -1,8 +1,8 @@
 def hello():
- """
- practice git
- """
- return "hello world"
+    """
+    Returns a greeting message: 'hello world'.
+    """
+    return "hello world"
 
 
 hello()

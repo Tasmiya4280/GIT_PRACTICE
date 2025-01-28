@@ -1,0 +1,32 @@
+git init,status,add,commit
+git rm –cache filename (for unstaging the files from staging area back to your working area)
+git restore filename(restore files from local repo)
+git remote -v
+git remote set-url origin https://personalaccesstoken@repo-url
+git clone (github to local remote repo)
+git fork (copy someone github repo to your github repo) You can also do sync fork (to synchronize your repo to the repo you forked)
+Ssh and gpg keys 
+git pull origin master
+git branch
+git branch new-branch-name(to create new branch)
+git checkout -b new-branch-name (to go from one branch to another branch)
+git switch new-branch-name
+HEAD  is a latest commit repo
+create Pull request from GUI and git merge from CLI (way of merging one branch to another branch)
+ (base = that branch that we want to merge with, compare = that branch that we are merging)
+git fetch means if you create a new branch with gui and you do git fetch you will get this new branch in your local as well
+git pull (get branch specific changes into local)
+git log
+git log –oneline
+Git follows principal of atomic commits(one commit does only one job)
+git reflog (Gets back the lost commits)
+git reset commitid –hard
+
+git rebase
+
+git revert
+git reset
+git stash
+git stash pop
+git tag (mark the commit with tag)
+git cherry-pick
